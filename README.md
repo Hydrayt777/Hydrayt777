@@ -27,3 +27,7 @@
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hydrayt777&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
+
+<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
+
+</div>
