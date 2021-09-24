@@ -29,10 +29,10 @@
 
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
-[![Telegram](https://img.shields.io/badge/-@Tg_Hydra_Galaxy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tg_Hydra_Galaxy)
-- <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/instagram%20@Tg_Hydra_Galaxy-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/facebook%20@Tg_Hydra_Galaxy.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/twitter%20@Tg_Hydra_Galaxy-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+[![Telegram](https://img.shields.io/badge/-@Tg_Hydra_Galaxy-blue?style=flat&logo=Telegram&logoColor=white)](@HydraLivegrambot)
+- <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/instagram%20@HydraLivegrambot-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/facebook%20@HydraLivegrambot.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+- <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/twitter%20@HydraLivegrambot-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 - <a href="https://😁/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20Elluminandi.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 - ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
