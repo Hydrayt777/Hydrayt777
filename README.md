@@ -29,7 +29,7 @@
 
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
-[![Telegram](https://img.shields.io/badge/-@HydraLivegrambot-blue?style=flat&logo=Telegram&logoColor=white)](@HydraLivegrambot)
+[![Telegram](https://img.shields.io/badge/-@Telegram-blue?style=flat&logo=Telegram&logoColor=white)](@HydraLivegrambot)
 - <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/instagram%20@HydraLivegrambot-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/facebook%20@HydraLivegrambot.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 - <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/twitter%20@HydraLivegrambot-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
