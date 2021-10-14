@@ -1,5 +1,5 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-### HYDRA <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> 😄👍
+### HyDrix <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> 😄👍
 
 
 <img src="./assets/logo.gif" width="30px">
