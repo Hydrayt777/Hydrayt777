@@ -42,6 +42,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Hydrayt777&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
