@@ -1,5 +1,9 @@
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-### HyDrix <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> 😄👍
+<p align="center">
+
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+
+</p>
+<h1 align="center">HyDrix <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> 😄👍
 
 
 
