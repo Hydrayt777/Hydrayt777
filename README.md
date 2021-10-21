@@ -40,7 +40,7 @@
 <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/twitter%20@HydraLivegrambot-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://😁/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20Elluminandi.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
-- ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
