@@ -11,8 +11,8 @@
 
 
 
-- <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Enthokkeyund mone vishesham😁...
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Enthokkeyund mone vishesham😁...
 <p align="center">
 
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
@@ -35,10 +35,10 @@
 
 
 [![Telegram](https://img.shields.io/badge/-@Telegram-blue?style=flat&logo=Telegram&logoColor=white)](@HydraLivegrambot)
-- <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/instagram%20@HydraLivegrambot-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/facebook%20@HydraLivegrambot.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/twitter%20@HydraLivegrambot-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://😁/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20Elluminandi.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+<a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/instagram%20@HydraLivegrambot-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/facebook%20@HydraLivegrambot.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://t.me/Tg_Hydra_Galaxy"><img src="https://img.shields.io/badge/twitter%20@HydraLivegrambot-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://😁/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20Elluminandi.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 - ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
