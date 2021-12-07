@@ -34,7 +34,7 @@
 
 
 
-[![Telegram](https://img.shields.io/badge/-@Telegram-blue?style=flat&logo=Telegram&logoColor=white)](@HydraLivegrambot)
+[![Telegram](https://img.shields.io/badge/-@Telegram-blue?style=flat&logo=Telegram&logoColor=white)](t.me/HydraLivegrambot)
 
 
 <a href="https://😁/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20Elluminandi.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
