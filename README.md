@@ -63,4 +63,4 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https:
 
-<img src="https://profile-counter.glitch.me/hydrayt777/count.svg" /></p></a>
+<img src="https://profile-counter.glitch.me/Hydrayt777/count.svg" /></p></a>
