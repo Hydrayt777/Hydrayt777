@@ -3,7 +3,7 @@
   <img style="width:8rem; height:auto" src="https://telegra.ph/file/10fbdfe09b24be02b27fa.jpg"/>
 
 </p>
-<h1 align="center">Hey Forkers ♥️, I'm HyDrix<img width="30px"  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">😁
+<h1 align="center">Hey Forkers ♥️, I'm HyDrix<img width="30px"  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 
 
