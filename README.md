@@ -31,7 +31,7 @@
 
 </div> 
 
-
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
 [![Telegram](https://img.shields.io/badge/-@Telegram-blue?style=flat&logo=Telegram&logoColor=white)](t.me/HydraLivegrambot)
 
