@@ -1,7 +1,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PR0FESS0R-99&layout=compact&theme=tokyonight" align="center">
+
   
 </p>
   
