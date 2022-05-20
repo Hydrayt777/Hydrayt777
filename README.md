@@ -1,8 +1,4 @@
-
-
-
-
-  
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝑨𝑵𝑵𝑵𝑨-𝑩𝑬𝑵-𝑭𝑰𝑳𝑻𝑬𝑹-𝑩𝑶𝑻!;created+by+𝑻𝑬𝑨𝑴+𝑨𝑵𝑵𝑨+𝑩𝑬𝑵!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
