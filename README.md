@@ -23,9 +23,9 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hydrayt777&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
+<img src="https://github-readme-stats.vercel.app/api?username=hydrixTg777&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydrayt777&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydrixTg777&layout=compact&theme=tokyonight" align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 
