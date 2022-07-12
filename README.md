@@ -27,7 +27,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydrixTg777&layout=compact&theme=tokyonight" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hydrixTg777&theme=tokyonight" alt="mystreak"/>
 
 
 
